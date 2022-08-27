@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elisson Saldanha</h1>
 <h3 align="center">A full stack developer passionate about one piece from Brazil</h3>
 
-- 🔭 I’m currently working on [Alon]
+- 🔭 I’m currently working on Alon
 
 - 🌱 I’m currently learning **React, node and MySQL**
 
-- 🤝 I’m looking for help with [EliLab](https://github.com/SaldanhaElisson/portal-normalabs)
+- 🤝 I’m looking for help with Alon
 
 - 👨‍💻 All of my projects are available at [https://my-portifolio-nho3tg8xf-saldanhaelisson.vercel.app](https://my-portifolio-nho3tg8xf-saldanhaelisson.vercel.app)
 
