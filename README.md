@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/elisson-saldanha-a8a680214/](https://www.linkedin.com/in/elisson-saldanha-a8a680214/)
 
-- 💬 Ask me about **JavaScript, React, css, Html**
+- 💬 Ask me about **JavaScript, React, css, Html, NextJs**
 
 - 📫 How to reach me **elissonsaldanha19@gmail.com**
 
