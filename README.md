@@ -7,7 +7,6 @@
 
 - 🤝 I’m looking for help with Alon
 
-- 👨‍💻 All of my projects are available at [https://my-portifolio-nho3tg8xf-saldanhaelisson.vercel.app](https://my-portifolio-nho3tg8xf-saldanhaelisson.vercel.app)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/elisson-saldanha-a8a680214/](https://www.linkedin.com/in/elisson-saldanha-a8a680214/)
 
